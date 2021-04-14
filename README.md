@@ -69,4 +69,4 @@ Caroline
 #TODO: verify the brainwarmer task
 load caroline's data using meshalyzer
 
-scp TimtheTyrant@login05.osgconnect.net:python3.7-osg.tar.gz python3.7-osg.tar.gz
+<!-- scp TimtheTyrant@login05.osgconnect.net:python3.7-osg.tar.gz python3.7-osg.tar.gz -->
